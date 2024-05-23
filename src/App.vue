@@ -5,7 +5,6 @@ import Main from "/src/components/Main.vue"
 <template>
   <header>
   </header>
-
   <main>
     <Main />
   </main>
